@@ -4,11 +4,6 @@
 #define u32 unsigned int
 
 // IDK HOW TO USE THIS
-typedef struct Book {
-  u32 id;
-  char name[200];
-  char author[20];
-} Book;
 
 /*TODO*/
 
